@@ -25,3 +25,6 @@ Our program "put" the text "hello world!" onto the terminal just as we asked it 
 ![gif1](http://i.imgur.com/0Sb1oiM.gif)
 
 Good work. Now let's start creating!
+
+---  
+[Course home](https://github.com/Coderdotnew/intro_web_apps_001) 
